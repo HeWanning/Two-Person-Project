@@ -1,4 +1,6 @@
 # Two-Person-Project
+/calculate.c/ the code.
+
 calculate 10 random questions and correct the answers wrong.
 About project analysis：
 This project is completed by two people in cooperation. 
