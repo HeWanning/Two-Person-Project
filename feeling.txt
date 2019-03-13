@@ -1,0 +1,15 @@
+It's hard, long, but it's fun.
+We realized the importance and function of cooperation and thinking exchange, and understood the shortcut and convenience of rational use of tools.
+In the process of conception and design, we spend a lot of time to build the whole and make the framework.
+In the process of writing the code, we encountered an obstacle -- the input problem of the enter key.
+So we searched the Internet, and we kept trying, and it was done.
+It was an unforgettable experience.
+
+To him(1753534):
+Opinions put forward for his teammates. He made it rational thinking, readily adopted, and for his teammates opinions expressed strong sympathy and affirmation, she gave no innovative thinking, he did, timely warning, in exchange of gentle way to communicate with teammates, and in the process of the test code to be perfect, two people also do encourage each other.
+Improvement:
+Timely feedback and thoughts to inform teammates, so as to complete the cooperation more effectively
+To her(1754224): 
+In the process of coding, the team members helped me with carefulness and responsibility, encouraged my innovative ideas, and made Suggestions on my code simplification, which led to my imperfect function at the beginning. In the end, after I improved the code, she gave me a positive reply.
+Improvement:
+The proposal can be more specific, and creative thinking can be added in the planning
